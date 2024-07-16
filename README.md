@@ -18,4 +18,5 @@ a) 7 b) 12
 Yarışmacı 3 sorudan 2'sini doğru cevaplar  ise 1 Milyon TL'lik büyük ödülü kazanacak!
 
 #Kurulum
-git clone https://github.com/kaankaya/KimMilyoner
+
+git clone https://github.com/kaankaya/KimMilyoner.git
