@@ -20,3 +20,5 @@ Yarışmacı 3 sorudan 2'sini doğru cevaplar  ise 1 Milyon TL'lik büyük ödü
 #Kurulum
 
 git clone https://github.com/kaankaya/KimMilyoner.git
+
+![Ekran Alıntısı](https://github.com/user-attachments/assets/330e1a4c-e47c-4c21-8a26-babafd9f3039)
